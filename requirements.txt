@@ -1,0 +1,9 @@
+# gymnasium
+# gymnasium[box2d]
+gymnasium[atari]
+gymnasium[other]
+autorom[accept-rom-license]
+#panda
+matplotlib
+torch
+numpy
